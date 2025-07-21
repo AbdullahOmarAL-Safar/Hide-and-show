@@ -1,3 +1,31 @@
+# 🖼️ Show/Hide Image Toggle
+
+A simple project that toggles the visibility of an image when a button is clicked.  
+Built with **HTML**, **JavaScript**, and minimal styling.
+
+---
+
+## 🧠 Features
+
+- 👆 Click the button to show or hide the image
+- 🔄 Button label changes dynamically (`Hide` ↔ `Show`)
+- ✅ Image visibility handled using `style.visibility`
+
+## 🛠️ Technologies Used
+
+- HTML5
+- JavaScript (Vanilla)
+
+---
+
+## 📂 Files
+
+| File         | Description                             |
+|--------------|-----------------------------------------|
+| `index.html` | Basic HTML structure with a button + image |
+| `script.js`  | Logic to toggle image visibility        |
+| `README.md`  | Project documentation                   |
+
 ## 👨‍💻 Author
 
 **Abdullah Omar Akram AL-Safar**  
